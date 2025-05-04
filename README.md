@@ -1,6 +1,6 @@
 # Client Success Workflows
 
-This repository showcases client success systems and automation flows designed to improve engagement, satisfaction, and retention. These workflows combine CRM automation, scheduling tools, and customer service analytics to streamline business operations.
+This showcases client success systems and automation flows designed to improve engagement, satisfaction, and retention. These workflows combine CRM automation, scheduling tools, and customer service analytics to streamline business operations.
 
 ## Key Features
 - Automated client onboarding using Zapier
