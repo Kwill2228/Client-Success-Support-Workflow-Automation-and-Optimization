@@ -1,4 +1,4 @@
-# Client Success Workflows
+# Client Success Workflow Solutions
 
 This showcases client success systems and automation flows designed to improve engagement, satisfaction, and retention. These workflows combine CRM automation, scheduling tools, and customer service analytics to streamline business operations.
 
@@ -31,4 +31,28 @@ client-success-workflows/
 
 ├── email-campaign-outline.md
 
-└── README.md
+# Crm Sync Automation
+
+## Overview
+This project explores automation and CRM synchronization to optimize business processes.
+
+## Key Objectives
+- Sync data across departments
+- Eliminate duplication
+- Improve sales team efficiency
+
+## Skills Demonstrated
+- Data cleaning & transformation
+- Analytical storytelling
+- Collaboration across departments
+- Use of tools like Odoo, Zapier, API Keys, Developer tools
+
+## Deliverables
+![image](https://github.com/user-attachments/assets/5e23b93f-fa3d-4b88-b82b-38be1cf77431)
+
+
+## Roles
+- Client Success Analyst | BI Analyst | Data Solutions Strategist  
+- Portfolio: [www.makeanimpact.com](https://www.makeanimpact.com)  
+- GitHub: [github.com/kwill2228](https://github.com/kwill2228)
+
